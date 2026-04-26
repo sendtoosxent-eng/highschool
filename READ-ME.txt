@@ -1,0 +1,10 @@
+  =>  Project Name    : commune hih school Website Project
+
+  =>  Project Link    : https://
+
+  =>  Project License : read the LICENSE.txt file
+
+  =>  Project Author  : Oscar nsamba
+
+  =>  Author Website   : https://oscarnsamba.com
+
